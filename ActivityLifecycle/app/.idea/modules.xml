@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/901908198/ActivityLifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/901908198/ActivityLifecycle.iml" group="ActivityLifecycle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="ActivityLifecycle/app" />
+    </modules>
+  </component>
+</project>
